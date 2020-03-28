@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c44f25c3-2a00-49b2-9d7e-a0d3a3891c75" name="Default Changelist" comment="" />
+    <list default="true" id="c44f25c3-2a00-49b2-9d7e-a0d3a3891c75" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Family.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/JobTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/JobTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/JobTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/JobTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-JobTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-JobTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Job.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Job.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/JobTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/JobTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,13 +32,29 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JUnit4 Test Class" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ZHLKxEQ45LaMGmgUKdeorRU7mj" />
   <component name="ProjectViewState">
@@ -30,8 +66,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -47,7 +85,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.JobTest.shouldThrowEndTimeTooLateExceptionIfEndTimeIsAfterFourAm">
+  <component name="RunManager" selected="Gradle.JobTest">
     <configuration name="JobTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -150,8 +188,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.JobTest.shouldThrowEndTimeTooLateExceptionIfEndTimeIsAfterFourAm" />
         <item itemvalue="Gradle.JobTest" />
+        <item itemvalue="Gradle.JobTest.shouldThrowEndTimeTooLateExceptionIfEndTimeIsAfterFourAm" />
         <item itemvalue="Gradle.JobTest.shouldCalculateAmountOwed" />
         <item itemvalue="Gradle.JobTest.shouldNotSetStartTimeEarlierThanFiveOclock" />
         <item itemvalue="Gradle.JobTest.shouldNotReturnErrorMessageWhenStartTimeAfterFiveOclock" />
@@ -180,33 +218,49 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="557" y="290" width="422" height="295" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.864@0.0.1536.864" timestamp="1585429565157" />
-    <state width="1491" height="223" key="GridCell.Tab.0.bottom" timestamp="1585429811580">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state width="1840" height="290" key="GridCell.Tab.0.bottom" timestamp="1585432068509">
+      <screen x="36" y="23" width="1884" height="1057" />
     </state>
     <state width="1491" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1585429811580" />
     <state width="1875" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1584501267498" />
-    <state width="1491" height="223" key="GridCell.Tab.0.center" timestamp="1585429811580">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state width="1840" height="290" key="GridCell.Tab.0.bottom/36.23.1884.1057@36.23.1884.1057" timestamp="1585432068509" />
+    <state width="1840" height="290" key="GridCell.Tab.0.center" timestamp="1585432068508">
+      <screen x="36" y="23" width="1884" height="1057" />
     </state>
     <state width="1491" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1585429811580" />
     <state width="1875" height="295" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1584501267498" />
-    <state width="1491" height="223" key="GridCell.Tab.0.left" timestamp="1585429811580">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state width="1840" height="290" key="GridCell.Tab.0.center/36.23.1884.1057@36.23.1884.1057" timestamp="1585432068508" />
+    <state width="1840" height="290" key="GridCell.Tab.0.left" timestamp="1585432068508">
+      <screen x="36" y="23" width="1884" height="1057" />
     </state>
     <state width="1491" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1585429811580" />
     <state width="1875" height="295" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1584501267498" />
-    <state width="1491" height="223" key="GridCell.Tab.0.right" timestamp="1585429811580">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state width="1840" height="290" key="GridCell.Tab.0.left/36.23.1884.1057@36.23.1884.1057" timestamp="1585432068508" />
+    <state width="1840" height="290" key="GridCell.Tab.0.right" timestamp="1585432068509">
+      <screen x="36" y="23" width="1884" height="1057" />
     </state>
     <state width="1491" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1585429811580" />
     <state width="1875" height="295" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1584501267498" />
+    <state width="1840" height="290" key="GridCell.Tab.0.right/36.23.1884.1057@36.23.1884.1057" timestamp="1585432068509" />
+    <state x="604" y="226" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1585431929839">
+      <screen x="36" y="23" width="1884" height="1057" />
+    </state>
+    <state x="604" y="226" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/36.23.1884.1057@36.23.1884.1057" timestamp="1585431929839" />
     <state x="726" y="242" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1584491576596">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="726" y="242" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1584491576596" />
+    <state x="644" y="308" width="667" height="486" key="find.popup" timestamp="1585431660057">
+      <screen x="36" y="23" width="1884" height="1057" />
+    </state>
+    <state x="644" y="308" width="667" height="486" key="find.popup/36.23.1884.1057@36.23.1884.1057" timestamp="1585431660057" />
     <state x="425" y="197" key="run.anything.popup" timestamp="1585429164775">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1585429164775" />
+    <state x="643" y="202" width="670" height="676" key="search.everywhere.popup" timestamp="1585431619850">
+      <screen x="36" y="23" width="1884" height="1057" />
+    </state>
+    <state x="643" y="202" width="670" height="676" key="search.everywhere.popup/36.23.1884.1057@36.23.1884.1057" timestamp="1585431619850" />
   </component>
 </project>

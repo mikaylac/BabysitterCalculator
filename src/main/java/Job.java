@@ -30,4 +30,7 @@ public class Job {
             throw new EndTimeTooLateException();
         }
     }
+
+    public void setFamily(Family familyToSet) {
+    }
 }

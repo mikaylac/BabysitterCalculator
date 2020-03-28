@@ -22,7 +22,7 @@ public class JobTest {
     }
 
     @Test
-    public void shouldCalculateAmountOwed() throws Exception {
+    public void shouldCalculateAmountOwed_FlatRate() throws Exception {
         Job job = new Job();
         int fivePm = 17;
         job.setStartTime(fivePm);
@@ -41,6 +41,18 @@ public class JobTest {
 
         BigDecimal oneHundredFiveDollars = new BigDecimal("105.00");
         assertEquals(decimalFormat.format(oneHundredFiveDollars.doubleValue()), job.calculateAmountOwed());
+    }
+
+    @Test
+    public void shouldCalculateAmountOwed_WithVariableRate() throws Exception{
+        Job job = new Job();
+        Family family = new FamilyA();
+        job.setFamily(family);
+
+        int fivePM = 17;
+        int twoAM = 26;
+        job.setStartTime(fivePM);
+        job.setEndTime(twoAM);
     }
 
 }
